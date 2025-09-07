@@ -3,11 +3,11 @@
 <div align="center">
 
 ```
- _____  _____  __     _____  _____  _____  _____  _____  _____  _____ 
-|   __||     ||  |   |     ||  _  ||  _  ||  _  ||  _  ||   __|| __  |
-|__   ||  |  ||  |__ | | | ||     ||   __||   __||   __||   __||    -|
-|_____||__  _||_____||_|_|_||__|__||__|   |__|   |__|   |_____||__|__|
-          |__|          GUI Version of SQLMap
+                  _____  _____  __     _____  _____  _____  _____  _____  _____  _____ 
+                 |   __||     ||  |   |     ||  _  ||  _  ||  _  ||  _  ||   __|| __  |
+                 |__   ||  |  ||  |__ | | | ||     ||   __||   __||   __||   __||    -|
+                 |_____||__  _||_____||_|_|_||__|__||__|   |__|   |__|   |_____||__|__|
+                           |__|          GUI Version of SQLMap
 ```
 
 **SQLmapper** is a professional desktop GUI application for sqlmap, similar to how Zenmap is a GUI for nmap. It provides a clean, beginner-friendly interface to run and manage sqlmap scans.
@@ -134,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ for the security community**
+**Made with ❤️ for the security community by heshamm1**
 
 [Report Bug](https://github.com/heshamm1/sqlmapper/issues) • [Request Feature](https://github.com/heshamm1/sqlmapper/issues)
 
