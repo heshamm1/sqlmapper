@@ -157,3 +157,6 @@ Thumbs.db
 sqlmap/
 *.db
 *.sqlite
+
+# Keep assets folder
+!sqlmapper/assets/
